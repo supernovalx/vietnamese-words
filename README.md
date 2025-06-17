@@ -1,4 +1,4 @@
-List Of English Words
+List Of Vietnamese Words
 =============
 
 A text file containing nearly 50k Vietnamese words.
